@@ -1,4 +1,6 @@
 ---
+links:
+  - "[[Home]]"
 dg-publish: true
 ---
 # Physical

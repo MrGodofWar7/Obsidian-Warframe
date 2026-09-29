@@ -2,6 +2,6 @@
 tags:
   - Primary
 links:
-  - "[[Roots/Incarnon Genesis]]"
+  - "[[Incarnon Genesis]]"
 dg-publish: true
 ---

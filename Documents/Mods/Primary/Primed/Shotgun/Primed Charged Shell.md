@@ -7,4 +7,4 @@ links:
 dg-publish: true
 ---
 # Rank 10
-- +165% Electricity
+- +165% [[Electricity]]

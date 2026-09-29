@@ -11,4 +11,4 @@ Gain 6% weapon Critical Chance for 10s, when using abilities to inflict Heat Sta
 
 
 > [!TIP] Tip
-> Commonly used on Mesa or Warframes that inflict Heat Status effects.
+> Commonly used on Mesa or Warframes that inflict Heat Status effects with their abilities.

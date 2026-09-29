@@ -6,4 +6,5 @@ links:
   - "[[Primed Mods]]"
 dg-publish: true
 ---
-- +165% Cold
+# Rank 10
+- +165% [[Cold]]

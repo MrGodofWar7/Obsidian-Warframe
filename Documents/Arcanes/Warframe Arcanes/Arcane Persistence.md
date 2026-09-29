@@ -12,3 +12,6 @@ Remove all Shields. If Armor is above 700: Cannot be hit for more than 500 Damag
 > [!TIP] Tip
 > Commonly used on Warframes that have high Armor such as Oraxia and Valkyr.
 
+> [!WARNING]
+> Multiple instances of DoT do not get capped together, so each instance of DoT will do 500 damage/s ***separately*** which will result in death if your Warframe does not have sufficient Max Health.
+

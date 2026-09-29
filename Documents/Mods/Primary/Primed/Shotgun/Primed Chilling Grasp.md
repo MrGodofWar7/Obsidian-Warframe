@@ -7,4 +7,4 @@ links:
 dg-publish: true
 ---
 # Rank 10
-- +165% Cold
+- +165% [[Cold]]

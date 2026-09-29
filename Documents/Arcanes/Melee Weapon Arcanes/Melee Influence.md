@@ -1,4 +1,8 @@
 ---
+tags:
+  - Melee
+links:
+  - "[[Melee Weapon Arcanes]]"
 dg-publish: true
 ---
 # Rank 5

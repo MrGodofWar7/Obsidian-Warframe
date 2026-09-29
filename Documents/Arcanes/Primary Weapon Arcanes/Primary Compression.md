@@ -5,7 +5,7 @@ links:
   - "[[Primary Weapon Arcanes]]"
 dg-publish: true
 ---
-### Rank 5
+# Rank 5
 On aim: x0.2 explosion radius, +100% damage and +5.5% ammo efficiency for every 1m radius lost.
 
 > [!TIP] Tip

@@ -2,6 +2,6 @@
 tags:
   - Secondary
 links:
-  - "[[Roots/Incarnon Genesis]]"
+  - "[[Incarnon Genesis]]"
 dg-publish: true
 ---

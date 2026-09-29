@@ -5,6 +5,7 @@ links:
   - "[[Galvanized Mods]]"
 dg-publish: true
 ---
+# Rank 10
 - +80% **Status Damage**
 - On Melee Kill:
     - +30% Status Chance for 20s.

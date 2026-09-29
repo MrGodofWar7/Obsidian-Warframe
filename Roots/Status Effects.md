@@ -1,4 +1,6 @@
 ---
+links:
+  - "[[Home]]"
 dg-publish: true
 ---
 Everything related to Status Effects.

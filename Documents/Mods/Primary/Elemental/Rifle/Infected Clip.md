@@ -5,4 +5,4 @@ tags:
 dg-publish: true
 ---
 # Rank 5
-- +90% Toxin
+- +90% [[Toxin]]

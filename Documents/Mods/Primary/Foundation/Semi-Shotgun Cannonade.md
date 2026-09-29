@@ -9,3 +9,6 @@ dg-publish: true
 - Fire Rate cannot be modified.
 - +240% Damage
 - +1.5 Punch Through
+
+> [!TIP]
+> Useful for negating the Fire Rate penalty of [[Critical Deceleration]].

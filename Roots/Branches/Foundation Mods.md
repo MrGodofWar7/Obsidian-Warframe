@@ -123,3 +123,22 @@ Mods that increase your Multishot.
 ## Melee
 - [[Galvanized Elementalist]] (Status Chance & Status Damage)
 - [[Weeping Wounds]]
+
+# Elemental & Status Damage
+Mods that increase elemental or status damage.
+
+## Primary
+
+### Rifle
+
+#### Sniper
+
+##### Bow
+
+### Shotgun
+
+## Secondary
+
+## Melee
+
+## Archgun
