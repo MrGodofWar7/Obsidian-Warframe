@@ -1,0 +1,40 @@
+---
+tags:
+  - Primary
+  - Shotgun
+links:
+  - "[[Coda Weapons]]"
+dg-publish: true
+---
+> Superior replacement to the Tenet Arca Plasmor. Exceeds Felarx's Incarnon form in burst damage.
+
+# Unique Trait
+Alternate Fire swarms enemies with mites, inflicting them with Impact and Magnetic Status Effects. If the targeted enemy is open to Mercy Kills, it performs a ranged finisher instead.
+**Perform a Mercy Kill to gain +100% Damage and +100% Multishot.**
+## Innate Damage Types
+- [[Impact]]
+- [[Blast]]
+- [[Magnetic]] (Alternate Fire only, unless if set as the Progenitor damage via Elemental Vice.)
+- [[Radiation]]
+
+---
+
+# Builds
+
+### Wubwub
+
+- Arcane: [[Primary Debilitate]]
+- Exilus: [[Galvanized Acceleration]]
+
+| [[Semi-Shotgun Cannonade]] | [[Frigid Blast]]  | [[Toxic Barrage]]      | [[Galvanized Savvy]] |
+| -------------------------- | ----------------- | ---------------------- | -------------------- |
+| [[Critical Deceleration]]  | [[Primed Ravage]] | [[Primed Point Blank]] | [[Galvanized Hell]]  |
+## Riven
+
+- Arcane: [[Shotgun Vendetta]] / [[Primary Debilitate]]
+- Exilus: [[Galvanized Acceleration]]
+
+| Mods                       |                       |                                                                |                      |
+| -------------------------- | --------------------- | -------------------------------------------------------------- | -------------------- |
+| [[Semi-Shotgun Cannonade]] | [[Contagious Spread]] | Coda Bassocyst Gelicron<br>+55% Cold<br>+48.3% Critical Chance | [[Galvanized Savvy]] |
+| [[Blaze]]                  | [[Primed Ravage]]     | [[Critical Deceleration]]                                      | [[Galvanized Hell]]  |
